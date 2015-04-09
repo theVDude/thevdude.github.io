@@ -121,7 +121,7 @@
   -moz-transition: top 0.3s 0s;
   transition: top 0.3s 0s;
 }
-.mm-panel-header h2 {
+.mm-panel-header h4 {
   font-weight: bold;
   color: #89ba2c;
   padding-left: 5%;
