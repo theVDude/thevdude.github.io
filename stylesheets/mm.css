@@ -93,7 +93,6 @@ span#loadtext {
 }
 .mm-panel {
   /*...*/
-  width: 300px;
   visibility: hidden;
   transition: visibility 0s 0.6s;
 }
